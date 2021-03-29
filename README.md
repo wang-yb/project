@@ -1,6 +1,4 @@
-# 常用工具
+- 基于vue的裁剪框
+copper
 
-## 基于vue的裁剪框
-- copper
-
-## deepclone
+- es5,es6不同语法下的deepclone
